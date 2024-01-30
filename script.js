@@ -8,6 +8,22 @@ navLinks.forEach(function (link) {
     toggleMenu(); // Hide the navigation when a link is clicked
   });
 });
+
+$(document).ready(function () {
+  $('.example5').click(function () {
+    $('.example5').toggleClass("active");
+    event.stopPropagation();
+    // $('.menu-drop').slideToggle(600);
+    // do stuff with menu here
+  });
+  $(document).click(function (e) {
+    $('.example5').removeClass("active");
+    // $('.menu-drop').slideUp(600);
+    // undo stuff with menu here
+  });
+});
+
+
 VanillaTilt.init(document.querySelectorAll(".card"), {
   max: 25,
   speed: 400,
