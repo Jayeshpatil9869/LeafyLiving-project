@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": {
+          "fields": { "file": { "url": "./assets/img/sellingImg/Tivoli20Planter-Black.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Grey_f26c8dee-c8ce-4e1a-bec7-86006f560c98.jpg?v=1680418283" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-PastelPink_97fc1e67-958a-4da8-98b6-31a47bdce6b7.jpg?v=1688563979&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Yellow.jpg?v=1706609279&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image": {
+          "fields": { "file": { "url": "" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": {
+          "fields": { "file": { "url": "" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image": {
+          "fields": { "file": { "url": "" } }
+        }
+      }
+    }
+  ]
+}
