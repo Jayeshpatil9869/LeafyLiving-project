@@ -6,77 +6,117 @@
         "title": "Peperomia Green",
         "price": 10.99,
         "image": {
-          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Mocca_0ade021a-89b8-4814-93d9-2d7381decd99.jpg?v=1693639925&width=375" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Lagos-Planter.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
+        "title": "Calathea Rattlesnake  ",
         "price": 12.99,
         "image": {
-          "fields": { "file": { "url": "" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Calathea-Rattlesnake.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "AtlantisPlanter",
+        "title": "Aglaonema Red Plant",
         "price": 12.99,
         "image": {
-          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-PastelPink_97fc1e67-958a-4da8-98b6-31a47bdce6b7.jpg?v=1688563979&width=375" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Aglaonema-Red-Plant.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "",
+        "title": "Christmas Cactus",
         "price": 22.99,
         "image": {
-          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Yellow.jpg?v=1706609279&width=375" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Christmas-Cactus.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "",
-        "price": 88.99,
+        "title": "Snake Plant",
+        "price": 18.99,
         "image": {
-          "fields": { "file": { "url": "" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Snake-Plant.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "",
-        "price": 32.99,
+        "title": "Lucky Bamboo",
+        "price": 26.99,
         "image": {
-          "fields": { "file": { "url": "" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Lucky-Bamboo.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "",
-        "price": 45.99,
+        "title": "Money Plant Marble",
+        "price": 22.99,
         "image": {
-          "fields": { "file": { "url": "" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Money-Plant-Marble.jpeg" } }
         }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "",
-        "price": 33.99,
+        "title": "Crassula Ovata",
+        "price": 16.99,
         "image": {
-          "fields": { "file": { "url": "./assets/img/sellingImg/Tivoli20Planter-Black.jpeg" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Crassula-Ovata.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Poinsettia Red Plant",
+        "price": 25.99,
+        "image": {
+          "fields": { "file": { "url": "./assets/img/sellingImg/Poinsettia-Red-Plant.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Betel Leaf Plant",
+        "price": 17.99,
+        "image": {
+          "fields": { "file": { "url": "./assets/img/sellingImg/Betel-Leaf-Plant.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Fittonia Pink Plant",
+        "price": 19.99,
+        "image": {
+          "fields": { "file": { "url": "./assets/img/sellingImg/Fittonia-Pink-Plant.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Philodendron Pluto",
+        "price": 21.99,
+        "image": {
+          "fields": { "file": { "url": "./assets/img/sellingImg/Philodendron-Pluto.jpeg" } }
         }
       }
     }

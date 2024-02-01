@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Peperomia Green",
+        "price": 10.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Mocca_0ade021a-89b8-4814-93d9-2d7381decd99.jpg?v=1693639925&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Calathea Rattlesnake  ",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/DSC_0245.jpg?v=1706606814&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Aglaonema Red Plant",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Red_9aedd671-5735-461d-9067-58b2d9766713.jpg?v=1688617208&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Christmas Cactus",
+        "price": 22.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/SpiroCeramicPot-Pink_18b2c80d-dd85-4488-851d-f396943d21cb.jpg?v=1706608702&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Snake Plant",
+        "price": 88.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-Teal_3edaf641-904e-485f-9d80-e11293f26546.jpg?v=1680435202&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Lucky Bamboo",
+        "price": 32.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/AimagewithGlassBowl.jpg?v=1689316631&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Money Plant Marble",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/DSC_0901.jpg?v=1695365329&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Crassula Ovata",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/DSC_9968.jpg?v=1692198235&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Poinsettia Red Plant",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/medium2-805.jpg?v=1703153024&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Betel Leaf Plant",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-MidnightBlue_34268dd1-38ef-4663-8503-e3117b61516d.jpg?v=1680378949&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Fittonia Pink Plant",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/LagosPlanter-Mocca_5d8ef780-826d-4052-be83-c24efb2f3798.jpg?v=1683043569&width=375" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Philodendron Pluto",
+        "price": 33.99,
+        "image": {
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/files/AImage_beb14392-a6f5-49e8-9766-d15189cddf19.jpg?v=1693564774&width=375" } }
+        }
+      }
+    }
+  ]
+}
