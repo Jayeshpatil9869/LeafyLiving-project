@@ -3,10 +3,10 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
+        "title": "Peperomia Green",
         "price": 10.99,
         "image": {
-          "fields": { "file": { "url": "./assets/img/sellingImg/Tivoli20Planter-Black.jpeg" } }
+          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Mocca_0ade021a-89b8-4814-93d9-2d7381decd99.jpg?v=1693639925&width=375" } }
         }
       }
     },
@@ -16,14 +16,14 @@
         "title": "king panel bed",
         "price": 12.99,
         "image": {
-          "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/LagosPlanter-Grey_f26c8dee-c8ce-4e1a-bec7-86006f560c98.jpg?v=1680418283" } }
+          "fields": { "file": { "url": "" } }
         }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
+        "title": "AtlantisPlanter",
         "price": 12.99,
         "image": {
           "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/AtlantisPlanter-PastelPink_97fc1e67-958a-4da8-98b6-31a47bdce6b7.jpg?v=1688563979&width=375" } }
@@ -33,7 +33,7 @@
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "twin panel bed",
+        "title": "",
         "price": 22.99,
         "image": {
           "fields": { "file": { "url": "https://www.ugaoo.com/cdn/shop/products/Krish12Planter-Yellow.jpg?v=1706609279&width=375" } }
@@ -43,7 +43,7 @@
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "fridge",
+        "title": "",
         "price": 88.99,
         "image": {
           "fields": { "file": { "url": "" } }
@@ -53,7 +53,7 @@
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "dresser",
+        "title": "",
         "price": 32.99,
         "image": {
           "fields": { "file": { "url": "" } }
@@ -63,7 +63,7 @@
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "couch",
+        "title": "",
         "price": 45.99,
         "image": {
           "fields": { "file": { "url": "" } }
@@ -73,10 +73,10 @@
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "table",
+        "title": "",
         "price": 33.99,
         "image": {
-          "fields": { "file": { "url": "" } }
+          "fields": { "file": { "url": "./assets/img/sellingImg/Tivoli20Planter-Black.jpeg" } }
         }
       }
     }
